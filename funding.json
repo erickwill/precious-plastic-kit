@@ -92,13 +92,31 @@
           }
 	],
 
-        "history": [{
+        "history": [
+	  {
             "year": 2024,
-            "income": 62276,
-            "expenses": 53646,
+            "income": 214037,
+            "expenses": 112129,
             "taxes": 0,
             "currency": "EUR",
             "description": "Financials for 2024"
-	}]
+	  },
+	  {
+            "year": 2023,
+            "income": 240024,
+            "expenses": 225986,
+            "taxes": 0,
+            "currency": "EUR",
+            "description": "Financials for 2023"
+	  },
+	  {
+            "year": 2022,
+            "income": 216500,
+            "expenses": 251312,
+            "taxes": 0,
+            "currency": "EUR",
+            "description": "Financials for 2022"
+	  }
+	]
     }
 }
