@@ -10,7 +10,7 @@
         "description": "Precious Plastic exists to reduce plastic waste. We are building an alternative global recycling system.\n\nWe design and develop machines to recycle plastic. Once ready, we tell the world how to replicate them.\n\nOur approaches count on people to bring about the necessary change. We run a network of plastic recyclers around the world, which actively engages in transfer of know-how and techniques. We also run a community marketplace for machines, moulds, materials and products.",
         "webpageUrl": {
             "url": "https://www.preciousplastic.com/",
-            "wellKnown": ""
+            "wellKnown": "https://www.preciousplastic.com/.well-known/funding-manifest-urls"
         }
     },
 
@@ -20,7 +20,7 @@
         "description": "We have designed, tested and deployed four versions of recycling machines over the last decade.  Version 5 is our holistic plan to take things to the next level. This plan involves improving the entire range of what we have done and built before, and more.\n\nThe overall funding required for this is 2 million euros, split over three phases: Sustaining recycling(400K), Increasing recycling(700K) and Going beyond plastic(900K).\n\nWe will spend this money on people, machines, practices, generating impact data, and building a sustainable ecosystem that goes beyond recycling.\n\nSupport us to help unlock the full potential of v5!",
         "webpageUrl": {
             "url": "https://www.preciousplastic.com/v5",
-            "wellKnown": ""
+            "wellKnown": "https://www.preciousplastic.com/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/ONEARMY/precious-plastic-kit",
