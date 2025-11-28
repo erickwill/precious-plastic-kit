@@ -1,0 +1,122 @@
+{
+    "version": "v1.0.0",
+
+    "entity": {
+        "type": "organisation",
+        "role": "owner",
+        "name": "Stichting Precious Plastic Foundation",
+        "email": "hello@preciousplastic.com",
+        "phone": "",
+        "description": "Precious Plastic exists to reduce plastic waste. We are building an alternative global recycling system.\n\nWe design and develop machines to recycle plastic. Once ready, we tell the world how to replicate them.\n\nOur approaches count on people to bring about the necessary change. We run a network of plastic recyclers around the world, which actively engages in transfer of know-how and techniques. We also run a community marketplace for machines, moulds, materials and products.",
+        "webpageUrl": {
+            "url": "https://www.preciousplastic.com/",
+            "wellKnown": "https://www.preciousplastic.com/.well-known/funding-manifest-urls"
+        }
+    },
+
+    "projects": [{
+        "guid": "precious-plastics-v5",
+        "name": "Precious Plastics v5",
+        "description": "We have designed, tested and deployed four versions of recycling machines over the last decade.  Version 5 is our holistic plan to take things to the next level. This plan involves improving the entire range of what we have done and built before, and more.\n\nThe overall funding required for this is 2 million euros, split over three phases: Sustaining recycling(400K), Increasing recycling(700K) and Going beyond plastic(900K).\n\nWe will spend this money on people, machines, practices, generating impact data, and building a sustainable ecosystem that goes beyond recycling.\n\nSupport us to help unlock the full potential of v5!",
+        "webpageUrl": {
+            "url": "https://www.preciousplastic.com/v5",
+            "wellKnown": "https://www.preciousplastic.com/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/ONEARMY/precious-plastic-kit",
+            "wellKnown": ""
+        },
+        "licenses": ["spdx:CC-BY-SA-4.0"],
+        "tags": ["plastic-recycling", "sustainability", "circular-economy"]
+    }],
+
+    "funding": {
+        "channels": [{
+            "guid": "bank",
+            "type": "bank",
+            "address": "IBAN NL05 BUNQ 2112 3035 97",
+            "description": "Setup as a Non-Profit (ANBI) in Netherlands. Please contact us on hello@preciousplastic.com."
+           }, {
+            "guid": "donorbox",
+            "type": "payment-provider",
+            "address": "https://donorbox.org/pp-v5",
+            "description": "Fund us through our funding campaign on Donorbox"
+           }, {
+            "guid": "patreon",
+            "type": "payment-provider",
+            "address": "https://www.patreon.com/one_army",
+            "description": "Become a Precious Plastic Supporter on our Patreon page. Join the One Army to tackle global problems!"
+	   }
+	],
+
+        "plans": [
+	  {
+            "guid": "plan-individual",
+            "status": "active",
+            "name": "Help unlock V5",
+            "description": "Support the campaign to unlock version 5",
+            "amount": 10,
+            "currency": "EUR",
+            "frequency": "one-time",
+            "channels": ["donorbox", "patreon"]
+	  },
+	  {
+            "guid": "plan-individual-monthly",
+            "status": "active",
+            "name": "Help unlock V5",
+            "description": "Support the campaign to unlock version 5",
+            "amount": 10,
+            "currency": "EUR",
+            "frequency": "monthly",
+            "channels": ["donorbox", "patreon"]
+	  },
+	  {
+            "guid": "plan-boost",
+            "status": "active",
+            "name": "Boost",
+            "description": "Help us reach our target of two million Euro faster",
+            "amount": 100000,
+            "currency": "EUR",
+            "frequency": "one-time",
+            "channels": ["bank"]
+          },
+	  {
+            "guid": "plan-megaboost",
+            "status": "active",
+            "name": "Mega Boost",
+            "description": "Fund our entire campaign. Speed up everything. We will make you a plastic statue.",
+            "amount": 2000000,
+            "currency": "EUR",
+            "frequency": "one-time",
+            "channels": ["bank"]
+          }
+	],
+
+        "history": [
+	  {
+            "year": 2024,
+            "income": 214037,
+            "expenses": 112129,
+            "taxes": 0,
+            "currency": "EUR",
+            "description": "Financials for 2024"
+	  },
+	  {
+            "year": 2023,
+            "income": 240024,
+            "expenses": 225986,
+            "taxes": 0,
+            "currency": "EUR",
+            "description": "Financials for 2023"
+	  },
+	  {
+            "year": 2022,
+            "income": 216500,
+            "expenses": 251312,
+            "taxes": 0,
+            "currency": "EUR",
+            "description": "Financials for 2022"
+	  }
+	]
+    }
+}
